@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["Arif", "Irfan"]
+  "cSpell.words": ["Arif", "Irfan"],
+  "editor.defaultFormatter": "xaver.clang-format"
 }
