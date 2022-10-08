@@ -1,0 +1,3 @@
+/run/media/aryan/HDD/Projects/Learning-C/cmake-build-debug/CMakeFiles/Learning_C.dir
+/run/media/aryan/HDD/Projects/Learning-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/aryan/HDD/Projects/Learning-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
